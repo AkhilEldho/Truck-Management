@@ -1,0 +1,20 @@
+﻿
+FE:\Database Application\Project\Project\App.xaml;;
+FE:\Database Application\Project\Project\Views\CustomerManagement\addCustomerUC.xaml;;
+FE:\Database Application\Project\Project\Views\CustomerManagement\addEmployeeUC.xaml;;
+FE:\Database Application\Project\Project\Views\CustomerManagement\displayPeopleInformationUC.xaml;;
+FE:\Database Application\Project\Project\Views\CustomerManagement\viewAndUpdateCustomerInformationUC.xaml;;
+FE:\Database Application\Project\Project\Views\CustomerManagement\viewAndUpdateEmployeeDetailsUC.xaml;;
+FE:\Database Application\Project\Project\Views\CustomerManagement\viewPersonalDetailsUC.xaml;;
+FE:\Database Application\Project\Project\Views\LoginForm.xaml;;
+FE:\Database Application\Project\Project\Views\MainForm.xaml;;
+FE:\Database Application\Project\Project\Views\RentalManagement\rentTruckUC.xaml;;
+FE:\Database Application\Project\Project\Views\RentalManagement\returnTruckUC.xaml;;
+FE:\Database Application\Project\Project\Views\RentalManagement\searchRentedUC.xaml;;
+FE:\Database Application\Project\Project\Views\RentalManagement\viewRentedUC.xaml;;
+FE:\Database Application\Project\Project\Views\TruckManagement\addFeatureUC.xaml;;
+FE:\Database Application\Project\Project\Views\TruckManagement\addTruckUC.xaml;;
+FE:\Database Application\Project\Project\Views\TruckManagement\displayTruckDetailsUC.xaml;;
+FE:\Database Application\Project\Project\Views\TruckManagement\updateTruckUC.xaml;;
+FE:\Database Application\Project\Project\Views\TruckManagement\viewTrucksUC.xaml;;
+
